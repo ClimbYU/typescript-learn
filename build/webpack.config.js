@@ -18,7 +18,7 @@ module.exports = {
       }
     ]
   },
-  devtool: process.env.NODE_ENV === 'production' ? '' : 'inline-source-map',
+  devtool: process.env.NODE_ENV === 'production' ? false : 'inline-source-map',
   devServer: {
     contentBase: './dist',
     stats: 'errors-only',
