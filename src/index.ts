@@ -4,7 +4,8 @@
 // import './example/function'
 // import './example/generic'
 // import './example/class'
-import "./example/enum"
+// import "./example/enum"
+import './example/advance-type2'
 // let num: number = 123;
 
 
