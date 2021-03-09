@@ -5,8 +5,14 @@
 // import './example/generic'
 // import './example/class'
 // import "./example/enum"
-import './example/advance-type2'
+/**
+ * 
+/// <reference path="./example/nameSpace.ts"/>
+ */
+// import './example/advance-type2'
 // let num: number = 123;
 
+// import './example/decorator'
+import './example/mixin'
 
 document.title = 'lesson'
