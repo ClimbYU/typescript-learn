@@ -13,6 +13,7 @@
 // let num: number = 123;
 
 // import './example/decorator'
-import './example/mixin'
+// import './example/mixin'
+import './example/declare-files'
 
 document.title = 'lesson'
